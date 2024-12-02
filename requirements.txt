@@ -18,3 +18,4 @@ bitsandbytes==0.44.1
 # accelerate>=0.26.0
 accelerate==1.1.1
 # bert_score
+streamlit==1.40.2
