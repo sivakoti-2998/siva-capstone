@@ -8,12 +8,13 @@ spacy
 tqdm==4.66.2
 transformers==4.38.2
 # accelerate
-bitsandbytes
+#bitsandbytes
 # jupyter
 wheel
 chromadb==0.5.20
 # flash-attn
 # rouge_score
-bitsandbytes
-accelerate>=0.26.0
+bitsandbytes==0.44.1
+# accelerate>=0.26.0
+accelerate==1.1.1
 # bert_score
