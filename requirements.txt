@@ -11,7 +11,7 @@ transformers==4.38.2
 bitsandbytes
 # jupyter
 wheel
-chromadb
+chromadb==0.5.20
 # flash-attn
 # rouge_score
 bitsandbytes
