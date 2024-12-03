@@ -13,7 +13,8 @@ transformers==4.38.2
 wheel
 # sqlite3>=3.35.0
 # pysqlite3==0.4.6
-chromadb==0.5.20
+chromadb
+# ==0.5.20
 # flash-attn
 # rouge_score
 bitsandbytes==0.44.1
