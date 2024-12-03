@@ -11,6 +11,7 @@ transformers==4.38.2
 #bitsandbytes
 # jupyter
 wheel
+sqlite3>=3.35.0
 chromadb==0.5.20
 # flash-attn
 # rouge_score
@@ -19,4 +20,4 @@ bitsandbytes==0.44.1
 accelerate==1.1.1
 # bert_score
 streamlit==1.40.2
-sqlite4==0.1.1
+
