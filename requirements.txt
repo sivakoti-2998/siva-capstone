@@ -23,7 +23,7 @@
 # accelerate>=0.26.0
 #accelerate==1.1.1
 # bert_score
-streamlit==1.40.2
+##streamlit==1.40.2
 
 
 accelerate==1.1.1
